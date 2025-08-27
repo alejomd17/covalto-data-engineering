@@ -2,8 +2,8 @@
 
 <img src="./assets/logo_covalto.png" alt="logo_covalto" width="170"/>
 
-**Fecha**: 27/08/2025  
-**Candidato**: Alejandro Moscoso Deossa  
+**Date**: 2025-08
+**Candidate**: Alejandro Moscoso Deossa  
 **WhatsApp**: [+57 3122396942](http://wa.me/573122396942)  
 **E-mail**: alejo-mdm@hotmail.com  
 **Portfolio**: www.aleossa.com  
@@ -53,4 +53,4 @@ Professional approach to handling cross-team dependencies and mock service issue
 * Long-term prevention measures
 
 ---
-#### Thank you for the opportunity to work on this challenge. I look forward to discussing my solutions further.
+#### Thank you for the opportunity to work on this challenge.
