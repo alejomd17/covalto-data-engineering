@@ -1,10 +1,5 @@
 # The High Level Problem
 
-**Candidato**: Alejandro Moscoso Deossa
-
-**Fecha**: 27/08/2025
-
----
 ## Table of Contents
 * [Introduction](#introduction)
 * [Architecture Overview](#architecture-overview)
