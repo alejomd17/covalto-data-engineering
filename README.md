@@ -2,7 +2,7 @@
 
 <img src="./assets/logo_covalto.png" alt="logo_covalto" width="170"/>
 
-**Date**: 2025-08
+**Date**: 2025-08  
 **Candidate**: Alejandro Moscoso Deossa  
 **WhatsApp**: [+57 3122396942](http://wa.me/573122396942)  
 **E-mail**: alejo-mdm@hotmail.com  
