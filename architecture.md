@@ -84,7 +84,8 @@ flowchart TD
 ## Step-by-Step Architecture Implementation
 ### 1: Data Ingestion & Storage
 #### 1.1: API Data Extraction:
-*Use Azure Data Factory to manage Databricks for API extraction. Handle different API formats (XML, JSON) with proper authentication.
+Use Azure Data Factory to manage Databricks for API extraction.
+Handle different API formats (XML, JSON) with proper authentication.
 #### 1.2: Database Replication
 Azure Data Factory for PostgreSQL or Databricks that have a code to read and clean the DB.
 Continuous ingestion to ADLS Gen2 with schema evolution support
